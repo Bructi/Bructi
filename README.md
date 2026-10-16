@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me & Education
 
-Hey! I'm **Aniket Dhoke**, a Semester IV Computer Engineering student at **Xavier Institute of Engineering** and a technology enthusiast who enjoys learning by building. My interests sit at the intersection of software development, web technologies, AI-powered tools, data, UI/UX, and practical engineering projects. 
+Hey! I'm **Aniket Dhoke**, a Semester V Computer Engineering student at **Xavier Institute of Engineering** and a technology enthusiast who enjoys learning by building. My interests sit at the intersection of software development, web technologies, AI-powered tools, data, UI/UX, and practical engineering projects. 
 
 I actively participate in full-stack web application development, utilizing MERN and PERN architectures, and frequently experiment with local development environments like WSL, Ubuntu, and Termux. When taking a break from studying computer networks, data warehousing, and agile methodologies, I enjoy optimizing mechanics and competing in multiplayer games like Pokémon Go, Pokémon Showdown, and Brawl Stars.
 
